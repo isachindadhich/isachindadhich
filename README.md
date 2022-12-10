@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sachindpsharma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hIFQctUV2u19VQnKrvXqKvx2oyQ8C4EP/view?usp=sharing](https://drive.google.com/file/d/1hIFQctUV2u19VQnKrvXqKvx2oyQ8C4EP/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1rXRS5creB0YP0EtHgnVNDd_JFTcgRUK5/view?usp=sharing
 
 - ⚡ Fun fact **I can ride a bicycle no hands**
 
