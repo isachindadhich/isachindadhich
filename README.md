@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working as **Assistant Officer** in **Dixon Technology India Ltd**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, DevOps, Ansible, Chef, Kubernetes, Docker, Terraform, Jenkins**
 
 - 📫 How to reach me **sachindpsharma@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1rXRS5creB0YP0EtHgnVNDd_JFTcgRUK5/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1PdBXXH54y8BPG6GsX11vk62BcwVUXlqO/view?usp=share_link
 
 - ⚡ Fun fact **I can ride a bicycle no hands**
 
